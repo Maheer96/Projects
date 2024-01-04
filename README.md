@@ -1,0 +1,1 @@
+These are three small projects I have created since the start of my programming career. One is a customized login system with various features I added out of interest, another is a simple RPS game, and the last is a slot machine game. 
